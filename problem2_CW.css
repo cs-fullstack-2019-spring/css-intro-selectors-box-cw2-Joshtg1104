@@ -1,0 +1,28 @@
+p{
+    background: gray;
+    margin-right: 10%;
+}
+.secondParagraph{
+    background: blue;
+    text-align: center;
+}
+.post{
+    background: pink;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.quote{
+    background: pink;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.blockSpecs{
+    width: 500px;
+    height: 100px;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 10px;
+    border: dashed 3px red;
+    text-align: center;
+
+}
